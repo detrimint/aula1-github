@@ -19,6 +19,8 @@ public class DataEHora {
 	System.out.println(sdf2.format(y1));
 	System.out.println(sdf2.format(y2));
 	System.out.println(sdf2.format(x1));
+	
+	System.out.println("Bom dia!");
 	}
 
 }
